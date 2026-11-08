@@ -1,0 +1,108 @@
+vendor,aliases,port,protocol,service,web_scheme,source_url,note
+Axis,axis communications;axis,80,TCP,Camera HTTP,http,https://help.axis.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Axis,axis communications;axis,443,TCP,Camera HTTPS,https,https://help.axis.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Axis,axis communications;axis,554,TCP,RTSP,,https://help.axis.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Brother,brother,80,TCP,Printer HTTP,http,https://support.brother.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Brother,brother,443,TCP,Printer HTTPS,https,https://support.brother.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Brother,brother,515,TCP,LPD,,https://support.brother.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Brother,brother,631,TCP,IPP,http,https://support.brother.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Brother,brother,9100,TCP,Raw printing,,https://support.brother.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Cisco,cisco,22,TCP,SSH,,https://www.cisco.com/c/en/us/support/index.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Cisco,cisco,23,TCP,Telnet,,https://www.cisco.com/c/en/us/support/index.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Cisco,cisco,80,TCP,HTTP,http,https://www.cisco.com/c/en/us/support/index.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Cisco,cisco,443,TCP,HTTPS,https,https://www.cisco.com/c/en/us/support/index.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Dahua,dahua;zhejiang dahua,80,TCP,HTTP,http,https://www.dahuasecurity.com/about-dahua/news-events/notice/nvr-interface-setting-network,
+Dahua,dahua;zhejiang dahua,443,TCP,HTTPS,https,https://www.dahuasecurity.com/about-dahua/news-events/notice/nvr-interface-setting-network,
+Dahua,dahua;zhejiang dahua,554,TCP,RTSP,,https://www.dahuasecurity.com/about-dahua/news-events/notice/nvr-interface-setting-network,
+Dahua,dahua;zhejiang dahua,37777,TCP,Dahua TCP service,,https://www.dahuasecurity.com/about-dahua/news-events/notice/nvr-interface-setting-network,
+Dahua,dahua;zhejiang dahua,37778,UDP,Dahua UDP service,,https://www.dahuasecurity.com/about-dahua/news-events/notice/nvr-interface-setting-network,
+Dell,dell;idrac,80,TCP,iDRAC HTTP,http,https://www.dell.com/support/manuals/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Dell,dell;idrac,443,TCP,iDRAC HTTPS,https,https://www.dell.com/support/manuals/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Dell,dell;idrac,623,TCP,IPMI,,https://www.dell.com/support/manuals/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Dell,dell;idrac,5900,TCP,Virtual console VNC,,https://www.dell.com/support/manuals/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Fortinet,fortinet;fortigate,22,TCP,SSH,,https://docs.fortinet.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Fortinet,fortinet;fortigate,80,TCP,HTTP,http,https://docs.fortinet.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Fortinet,fortinet;fortigate,443,TCP,FortiGate HTTPS,https,https://docs.fortinet.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Fortinet,fortinet;fortigate,541,TCP,FortiManager,,https://docs.fortinet.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HP,hp inc;hewlett-packard,80,TCP,Printer HTTP,http,https://support.hp.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HP,hp inc;hewlett-packard,443,TCP,Printer HTTPS,https,https://support.hp.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HP,hp inc;hewlett-packard,631,TCP,IPP,http,https://support.hp.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HP,hp inc;hewlett-packard,9100,TCP,JetDirect,,https://support.hp.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HPE,hewlett packard;hpe;aruba,22,TCP,SSH,,https://support.hpe.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HPE,hewlett packard;hpe;aruba,80,TCP,iLO HTTP,http,https://support.hpe.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HPE,hewlett packard;hpe;aruba,443,TCP,iLO HTTPS,https,https://support.hpe.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+HPE,hewlett packard;hpe;aruba,17990,TCP,iLO remote console,,https://support.hpe.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Hikvision,hikvision;hangzhou hikvision,80,TCP,HTTP,http,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,443,TCP,HTTPS,https,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,554,TCP,RTSP,,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,7681,TCP,WebSocket,,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,7682,TCP,WebSocket TLS,,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,8000,TCP,Hikvision server,,https://www.hikvision.com/content/dam/hikvision/products/S000000001/S000000002/S000000016/S000000017/OFR000019/M000000381/User_Manual/UD11733B-D_Baseline_User-Manual_of_Network_Camera_V5.5.85_20221222.pdf,
+Hikvision,hikvision;hangzhou hikvision,8200,TCP,Camera service (model dependent),,https://us-legacy.hikvision.com/en/system/files_force/ud06747b_baseline_user_manual_of_network_camera_v5.5.0_20170731_2.pdf?download=1,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+MikroTik,mikrotik;routerboard,22,TCP,SSH,,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+MikroTik,mikrotik;routerboard,80,TCP,WebFig HTTP,http,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+MikroTik,mikrotik;routerboard,443,TCP,WebFig HTTPS,https,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+MikroTik,mikrotik;routerboard,8291,TCP,Winbox,,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+MikroTik,mikrotik;routerboard,8728,TCP,RouterOS API,,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+MikroTik,mikrotik;routerboard,8729,TCP,RouterOS API SSL,,https://help.mikrotik.com/docs/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Palo Alto Networks,palo alto,22,TCP,SSH,,https://docs.paloaltonetworks.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Palo Alto Networks,palo alto,443,TCP,PAN-OS HTTPS,https,https://docs.paloaltonetworks.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Palo Alto Networks,palo alto,3978,TCP,Panorama communication,,https://docs.paloaltonetworks.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Proxmox,proxmox,22,TCP,SSH,,https://pve.proxmox.com/pve-docs/pve-admin-guide.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Proxmox,proxmox,3128,TCP,SPICE proxy,,https://github.com/proxmox/pve-docs/blob/master/pve-firewall.adoc,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Proxmox,proxmox,5405,UDP,Corosync,,https://github.com/proxmox/pve-docs/blob/master/pve-firewall.adoc,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Proxmox,proxmox,5406,UDP,Corosync secondary link,,https://github.com/proxmox/pve-docs/blob/master/pve-firewall.adoc,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Proxmox,proxmox,5900,TCP,VNC,,https://pve.proxmox.com/pve-docs/pve-admin-guide.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Proxmox,proxmox,8006,TCP,Proxmox VE GUI,https,https://pve.proxmox.com/pve-docs/pve-admin-guide.html,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Proxmox,proxmox,60000,TCP,Migration start of dynamic range (not exhaustive),,https://github.com/proxmox/pve-docs/blob/master/pve-firewall.adoc,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+QNAP,qnap,443,TCP,QTS HTTPS,https,https://www.qnap.com/en/how-to/faq/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+QNAP,qnap,873,TCP,rsync,,https://www.qnap.com/en/how-to/faq/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+QNAP,qnap,8080,TCP,QTS HTTP,http,https://www.qnap.com/en/how-to/faq/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+QNAP,qnap,8081,TCP,QTS HTTPS alternate,https,https://www.qnap.com/en/how-to/faq/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Synology,synology,873,TCP,rsync,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,3260,TCP,iSCSI,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,5000,TCP,DSM HTTP,http,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,5001,TCP,DSM HTTPS,https,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,5005,TCP,WebDAV,http,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,5006,TCP,WebDAV HTTPS,https,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,5357,TCP,WS-Discovery,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Synology,synology,5510,TCP,Active Backup for Business,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Synology,synology,5566,TCP,Snapshot Replication,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Synology,synology,6281,TCP,Hyper Backup Vault,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,6690,TCP,Synology Drive,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,
+Synology,synology,9997,UDP,Synology Assistant,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Synology,synology,9998,UDP,Synology Assistant,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Synology,synology,9999,UDP,Synology Assistant,,https://kb.synology.com/en-global/DSM/tutorial/What_network_ports_are_used_by_Synology_services,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+TP-Link,tp-link;tplink;omada,80,TCP,HTTP,http,https://www.tp-link.com/support/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+TP-Link,tp-link;tplink;omada,443,TCP,HTTPS,https,https://www.tp-link.com/support/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+TP-Link,tp-link;tplink;omada,8043,TCP,Omada HTTPS,https,https://www.tp-link.com/support/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+TP-Link,tp-link;tplink;omada,8088,TCP,Omada HTTP,http,https://www.tp-link.com/support/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+TP-Link,tp-link;tplink;omada,29810,TCP,Omada discovery,,https://www.tp-link.com/support/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,22,TCP,SSH,,https://help.ui.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,443,TCP,UniFi HTTPS,https,https://help.ui.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,1900,UDP,Discovery,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,3478,UDP,STUN,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,5514,UDP,Syslog,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,5671,TCP,Traffic flow logging,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,6789,TCP,Speed test,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7441,TCP,Protect RTSPS,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7442,TCP,Protect WebSocket,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7443,TCP,Protect API,https,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7444,TCP,Protect camera WebSocket,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7445,TCP,Protect stream,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7447,TCP,Protect RTSP,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7550,TCP,Protect camera stream,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7552,TCP,Protect SSL camera,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,7888,TCP,Protect TCP bridge,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,8080,TCP,UniFi inform,http,https://help.ui.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,8443,TCP,UniFi Network legacy UI,https,https://help.ui.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,8444,TCP,Secure hotspot portal,https,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,8843,TCP,Guest portal HTTPS,https,https://help.ui.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+Ubiquiti,ubiquiti;unifi;ubnt,8880,TCP,Hotspot HTTP,http,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,8881,TCP,Hotspot HTTP,http,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,8882,TCP,Hotspot HTTP,http,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,10001,UDP,UniFi discovery,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+Ubiquiti,ubiquiti;unifi;ubnt,10101,UDP,Client fingerprinting,,https://help.ui.com/hc/en-us/articles/218506997-Required-Ports-Reference,"Dokumentacja producenta; zależne od modelu, wersji i konfiguracji"
+VMware,vmware;esxi,443,TCP,ESXi HTTPS,https,https://techdocs.broadcom.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+VMware,vmware;esxi,902,TCP,VMware auth/console,,https://techdocs.broadcom.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
+VMware,vmware;esxi,903,TCP,VMware remote console,,https://techdocs.broadcom.com/,Port typowy dla produktu/usługi; może być zmieniony lub wyłączony.
